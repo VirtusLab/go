@@ -3,6 +3,13 @@
 Go is an open source programming language that makes it easy to build simple,
 reliable, and efficient software.
 
+### This is a fork!
+
+This is a fork of the Go compiler used for work on the rewrite of the [Scala 3](https://scala-lang.org/)
+compiler in Go. The point of this fork is to add the single missing feature that has been
+a major limitation for us - [Higher Kinded Types](https://www.youtube.com/watch?v=dQw4w9WgXcQ). 
+All the work is happening in the branch `introducing-higher-kinded-types`.
+
 ![Gopher image](https://golang.org/doc/gopher/fiveyears.jpg)
 *Gopher image by [Renee French][rf], licensed under [Creative Commons 4.0 Attribution license][cc4-by].*
 
